@@ -67,7 +67,7 @@ Aktuell sieht dieser so aus:
   > *TMM*: Keine Ahnung. Aber Tableau funktioniert nicht so, dass man sich als Nutzer die Anordnung aussuchen kann. Ich hatte zunindest noch kein deratiges Dashboard gesehen. Zielgruppen müssen vorab definiert werden um ein effektives Dashboard zu erstellen. Ansonsten wird schlicht keine zufriedenstellende Wirking erzielt.
 - **Akordeon-Effekte**: Kann Tableau Akkordeon? Ich hab mal eine typo3 extension mit einer Akordeonfunktion in Betrieb genommen. Hier konnte man sich thematische Absätze über ein plus- bzw. minusicon ein- bzw. ausblenden.
   > *TMM*: Nee. Aber man kann bestimmt Inhalte natürlich ein- bzw- ausblenden (Filter, Parameter). Das geht auch in Tabellen. Aber halt nicht mit einem Akkordeon-Effekt.
- 
+- **Anzahl der Daten auf dem Dashoard**: Ich finde in diesem Fall mehr besser. Man würde wahrscheinlich Landshut kritisieren, wenn man nicht die üblichen Indikatoren wiederfindet. Diese allein sind aber irreführend. Deshalb brauchen wir mehr. Ich denke auch, dass jemand, der sich die Mühe macht, das Dashboard zu suchen, damit umgehen kann.  
 ### AUFGABEN
  
 - [ ] Stadtkreis und Landkreis Landshut zusammenlegen.
